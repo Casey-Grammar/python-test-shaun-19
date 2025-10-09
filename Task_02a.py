@@ -29,7 +29,9 @@ def main():
   x="Task2a"
   #===============================
   # Write your code here
-    
+  print("Text: Marco!")
+word = input('')
+print("word")
 
   # End of your code here
   #===============================

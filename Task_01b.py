@@ -18,9 +18,11 @@ def main():
     x="Task1b"
     #===============================
     # Write your code here
-
-
-
+    word = input('shout: ')
+    print(word)
+    print("hello hello")
+    print(word)
+    print(word)
 
     # End of your code here
     # #===============================

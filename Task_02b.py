@@ -22,7 +22,9 @@ def main():
     x="Task2b"
     #===============================
     # Write your code here
-    
+    print("Text: mArcO!")
+    word = input('')
+    print("word")
 
     # End of your code here
     #===============================
