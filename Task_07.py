@@ -32,7 +32,7 @@ def hello(name):
 
 def main():
   name = int(input('What is your name? '))
-  if len(name < 3:
+  if len(name < 3: )
     print ('Your name is too short')
   else:
     reply = hello(name)
