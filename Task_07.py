@@ -31,8 +31,8 @@ def hello(name):
     return greeting
 
 def main():
-  name = int(input('What is your name? '))
-  if len ("name < 3: ") 
+  name = input('What is your name? ')
+  if len("name) < 3: "
     print ('Your name is too short')
   else:
     reply = hello(name)
