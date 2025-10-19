@@ -30,8 +30,8 @@ def main():
   #===============================
   # Write your code here
   print("Text: Marco!")
-word = input('')
-print("word")
+  word = input('')
+  print("word")
 
   # End of your code here
   #===============================
